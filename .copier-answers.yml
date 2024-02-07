@@ -1,0 +1,23 @@
+# Changes here will be overwritten by Copier
+_commit: v1.5.0
+_src_path: https://github.com/lincc-frameworks/python-project-template.git
+author_email: name@you.com
+author_name: Your Name
+create_example_module: true
+custom_install: true
+enforce_style:
+- ruff
+failure_notification:
+- none
+include_benchmarks: true
+include_docs: true
+include_notebooks: true
+mypy_type_checking: none
+package_name: example_package
+project_license: MIT
+project_name: example_project
+project_organization: my-organization
+python_versions:
+- '3.9'
+- '3.10'
+- '3.11'
